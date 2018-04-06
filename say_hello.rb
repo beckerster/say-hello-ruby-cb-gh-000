@@ -1,3 +1,3 @@
-def greeting(name = "Ruby Programmer!")
+def greeting (name)
   puts "Hello #{name}"
 end
